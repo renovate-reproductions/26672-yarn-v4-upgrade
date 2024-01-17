@@ -1,0 +1,17 @@
+{
+    "name": "26672-yarn-v4-upgrade",
+    "version": "0.0.0-semantic-release",
+    "repository": "https://github.com/renovate-reproductions/26672-yarn-v4-upgrade.git",
+    "author": "Michael Kriese <michael.kriese@visualon.de>",
+    "license": "MIT",
+    "private": true,
+    "type": "module",
+    "engines": {
+        "node": ">=16.13.0",
+        "yarn": "^3.2.0"
+    },
+    "devDependencies": {
+        "@types/node": "16.11.47"
+    },
+    "packageManager": "yarn@3.2.3"
+}
