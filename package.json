@@ -8,10 +8,10 @@
     "type": "module",
     "engines": {
         "node": ">=16.13.0",
-        "yarn": "^3.2.0"
+        "yarn": "^4.0.0"
     },
     "devDependencies": {
         "@types/node": "16.11.47"
     },
-    "packageManager": "yarn@3.2.3"
+    "packageManager": "yarn@4.1.1"
 }
